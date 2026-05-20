@@ -332,7 +332,7 @@ This project is open source and available under the MIT License.
 ## 👨‍💼 Author
 
 **Stanley Enyinnaya**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@ifeanchi](https://github.com/ifeanchi)
 - Email: anyistan225@gmail.com
 
 ## 🙏 Acknowledgments
@@ -340,17 +340,14 @@ This project is open source and available under the MIT License.
 - **Ollama** - Local LLM inference
 - **Drizzle ORM** - Type-safe database management
 - **shadcn/ui** - Beautiful UI components
-- **Manus** - Web development platform
 
 ## 📞 Support
 
 For issues, questions, or suggestions:
-1. Check existing [GitHub Issues](https://github.com/YOUR_USERNAME/capstone_project_grantmatcher-ai/issues)
+1. Check existing [GitHub Issues](https://github.com/ifeanchi/capstone_project_grantmatcher-ai/issues)
 2. Create a new issue with detailed description
 3. Include error messages and steps to reproduce
 
 ---
-
-**Happy grant matching! 🎯**
 
 *Last updated: May 2026*
