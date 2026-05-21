@@ -17,6 +17,9 @@ pip-wheel-metadata/
 # SQLite database
 data/grants.db
 
+# Chroma local persistence
+.chromadb/
+
 # Environment files
 .env
 .env.*

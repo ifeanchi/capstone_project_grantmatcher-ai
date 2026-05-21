@@ -23,6 +23,7 @@ CREATE TABLE IF NOT EXISTS grants (
     description TEXT,
     url TEXT,
     chroma_synced_at TIMESTAMP,
+    embedding TEXT,
     last_updated TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     UNIQUE(title, organization)
 );

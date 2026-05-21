@@ -34,5 +34,89 @@
 		"eligibility": "Nonprofit arts organizations and community groups",
 		"description": "Funding for public art projects and community engagement initiatives that increase local participation in the arts.",
 		"url": "https://example.org/grants/arts-community-engagement"
+	},
+	{
+		"title": "Climate Resilience Capacity Building",
+		"organization": "Green Futures Initiative",
+		"field": "Environment",
+		"source": "manual",
+		"deadline": "2026-11-15",
+		"min_amount": 25000,
+		"max_amount": 100000,
+		"eligibility": "Nonprofits and community coalitions working on climate resilience",
+		"description": "Support for planning, training, and implementation of community-based climate resilience efforts.",
+		"url": "https://example.org/grants/climate-resilience"
+	},
+	{
+		"title": "Small Business Recovery Grant",
+		"organization": "Economic Opportunity Fund",
+		"field": "Economic Development",
+		"source": "manual",
+		"deadline": "2026-10-31",
+		"min_amount": 15000,
+		"max_amount": 50000,
+		"eligibility": "Small nonprofits and cooperatives supporting local entrepreneurship",
+		"description": "Grants for programs that help small businesses recover and grow after economic disruption.",
+		"url": "https://example.org/grants/small-business-recovery"
+	},
+	{
+		"title": "Rural Broadband Access Grant",
+		"organization": "Connectivity Trust",
+		"field": "Technology",
+		"source": "manual",
+		"deadline": "2027-01-20",
+		"min_amount": 30000,
+		"max_amount": 120000,
+		"eligibility": "Nonprofit organizations improving internet access in rural areas",
+		"description": "Funding for broadband deployment, digital literacy, and community technology hubs.",
+		"url": "https://example.org/grants/rural-broadband"
+	},
+	{
+		"title": "Youth Mental Health Innovation Grant",
+		"organization": "Wellness Futures",
+		"field": "Health",
+		"source": "manual",
+		"deadline": "2026-08-31",
+		"min_amount": 10000,
+		"max_amount": 40000,
+		"eligibility": "Nonprofits serving youth mental health and wellness programs",
+		"description": "Support for innovative services, outreach, and partnerships that improve youth mental health outcomes.",
+		"url": "https://example.org/grants/youth-mental-health"
+	},
+	{
+		"title": "Food Security Partnership Grant",
+		"organization": "Community Nourish Network",
+		"field": "Social Services",
+		"source": "manual",
+		"deadline": "2026-12-01",
+		"min_amount": 8000,
+		"max_amount": 35000,
+		"eligibility": "Nonprofits addressing food insecurity and local food systems",
+		"description": "Funding for community kitchen programs, food distribution, and nutrition education.",
+		"url": "https://example.org/grants/food-security-partnership"
+	},
+	{
+		"title": "Workforce Training for Displaced Workers",
+		"organization": "Next Career Foundation",
+		"field": "Workforce Development",
+		"source": "manual",
+		"deadline": "2027-02-28",
+		"min_amount": 20000,
+		"max_amount": 75000,
+		"eligibility": "Nonprofits providing job training and placement services",
+		"description": "Grants for workforce development programs that support displaced and underserved workers.",
+		"url": "https://example.org/grants/workforce-training"
+	},
+	{
+		"title": "Accessible Transportation Grant",
+		"organization": "Mobility for All",
+		"field": "Infrastructure",
+		"source": "manual",
+		"deadline": "2027-05-10",
+		"min_amount": 15000,
+		"max_amount": 60000,
+		"eligibility": "Nonprofits improving accessible transportation services",
+		"description": "Funding for projects that increase transportation access for seniors, people with disabilities, and rural communities.",
+		"url": "https://example.org/grants/accessible-transport"
 	}
 ]
