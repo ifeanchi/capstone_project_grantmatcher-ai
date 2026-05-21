@@ -1,0 +1,8 @@
+streamlit
+chromadb>=0.5.0
+sentence-transformers
+langchain>=0.3.0
+langchain-ollama
+langchain-core
+requests
+pydantic

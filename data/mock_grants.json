@@ -1,0 +1,38 @@
+[
+	{
+		"title": "Community Health Outreach Grant",
+		"organization": "Health Foundation",
+		"field": "Health",
+		"source": "manual",
+		"deadline": "2026-12-31",
+		"min_amount": 10000,
+		"max_amount": 50000,
+		"eligibility": "Nonprofits serving urban communities",
+		"description": "Support for community-based health outreach programs focusing on preventive care and education.",
+		"url": "https://example.org/grants/community-health-outreach"
+	},
+	{
+		"title": "STEM Education Grant for K-12",
+		"organization": "Education Trust",
+		"field": "Education",
+		"source": "manual",
+		"deadline": "2026-09-30",
+		"min_amount": 5000,
+		"max_amount": 20000,
+		"eligibility": "Schools and non-profit educational organizations",
+		"description": "Grants to support hands-on STEM curriculum development and teacher training in under-resourced schools.",
+		"url": "https://example.org/grants/stem-education-k12"
+	},
+	{
+		"title": "Arts & Community Engagement Fund",
+		"organization": "Arts Alliance",
+		"field": "Arts",
+		"source": "manual",
+		"deadline": "2027-03-15",
+		"min_amount": 2000,
+		"max_amount": 15000,
+		"eligibility": "Nonprofit arts organizations and community groups",
+		"description": "Funding for public art projects and community engagement initiatives that increase local participation in the arts.",
+		"url": "https://example.org/grants/arts-community-engagement"
+	}
+]
