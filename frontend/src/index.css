@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Minimal overrides to prevent template clashes */
+body {
+  margin: 0;
+  background-color: #f9fafb; /* Tailwind gray-50 */
+}
+
+#root {
+  width: 100%;
+  max-width: 100%;
+  text-align: left; /* Stops everything from being centered */
+}

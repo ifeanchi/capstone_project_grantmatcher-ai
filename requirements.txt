@@ -6,3 +6,7 @@ langchain-ollama
 langchain-core
 requests
 pydantic
+
+# New for Flask API
+flask>=2.3.0
+flask-cors>=4.0.0
